@@ -1,0 +1,197 @@
+@charset "UTF-8";
+
+#googlebig{
+    width: 272px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+#googlesmall{
+   display: inline-block;
+   vertical-align: top;
+   margin: 18px;
+    }
+
+#backmain2{
+display: inline-block;
+margin-left: 83%;
+margin-top: 1%;
+font-size: small;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainsearch{
+    text-align: center;
+}
+hr{
+    border-color: rgba(236, 236, 236, 0.205);
+}
+a:hover{
+    border-bottom:  1px solid black;
+}
+.searchtext:hover, .searchbuttom:hover{
+
+    box-shadow:0 1px 6px rgba(32,33,36,.28);
+    border-color: rgba(109, 109, 109, 0);
+    cursor: pointer;
+}
+.inputlist:focus{
+    border-color: #4285F4;
+    outline:none;
+    box-shadow: 0px 0px 5px rgba(32,33,36,.28);
+}
+
+.searchtext:hover{
+    box-shadow:0 1px 6px rgba(32,33,36,.28);
+    border-color: rgba(109, 109, 109, 0);
+    cursor: text;
+}
+
+#searchbuttom2:hover{
+    border:1px solid #0b5ee4;
+}
+
+
+.searchtext{
+    background-image: url(https://cdn-icons-png.flaticon.com/512/13/13267.png);
+    background-size: 1em; background-position: left; background-repeat: no-repeat; background-position: 13px;
+    padding-left: 1.3em;
+    height:40px;
+    width: 550px;
+    border-radius:22px;
+    margin:10px;
+    border-color: rgba(109, 109, 109, 0.26);
+    border-style: solid;
+    border-width: 1.8px;
+    outline: transparent;
+    text-indent: 20px;
+    font-size: medium;
+}
+
+.searchbuttom{
+    
+    border: 1px solid #F8F9FA;
+    border-radius: 4px;
+    width: 80px;
+    height: 36px;
+    width: fit-content;
+    line-height: 27px;
+    text-align: center;
+    background-color: #F8F9FA;
+    margin:25px 10px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    color: rgb(44, 44, 44);
+    
+}
+
+#searchbuttom2{
+    color: white;
+    box-shadow: none;
+    float: right;
+    margin: 10px 0;
+    padding: 0 12px;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    user-select: none;
+    line-height: 100%;
+    height: 30px;
+    min-width: 120px;
+    padding: 0 12px;
+    border-radius: 2px;
+    cursor: default;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    outline: 0;
+}
+
+a{
+    text-decoration: solid;
+    color: black;
+}
+    #nextp1, #backmain{
+    display: inline-block;
+    margin-top:15px;
+    margin-right:10px;
+    margin-left: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+    #nextp2{
+    display: inline-block;
+    margin-top:20px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    border-color:black ;
+}
+    .belowgoogle{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 56%;
+        font-size: medium;
+        border-color:black ;
+        color: #4285F4;
+         
+    }
+
+    #TittleAdvanced{
+        
+        margin: 25px 35px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: normal;
+        font-size: 18px;
+        color: #d93025;
+
+    }
+    #SubAdvanced{
+        margin-top:40px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: normal;
+        font-size: 15px;
+        width: 30%;        
+        color: #333;
+    }
+    
+    #advancedform{
+        width: 50%;
+        margin-left: 2.5%;
+        font-weight: inherit;
+        font-style: inherit;
+        font-size: 13px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        color: #333;
+
+    }
+   
+        .labeltittle{
+        
+        width: 140px;
+        display: inline-block;
+        overflow-wrap: break-word;  
+        word-wrap: break-word; 
+        word-break: break-word
+    } 
+
+    #labeltext1,#labeltext2,#labeltext3,#labeltext4{
+        display: flex;
+        vertical-align:top;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+
+    .inputlist{
+        margin: 10px 0;
+        padding: 1px 8px;
+        height: 25px;
+        vertical-align: right;
+        margin-left: 3%;
+        width: 480px;
+        display: inline-block;
+        border-radius: 1px;
+        border-top: 1px solid #c0c0c0;
+        border: 1px solid #d9d9d9;
+        outline-color: rgba(0, 0, 255, 0.356);
+    }
