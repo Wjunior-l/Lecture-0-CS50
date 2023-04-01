@@ -7,7 +7,7 @@ Google Search
 </h1>
 
 <p align="center">This is the Lecture 0 of CS50 web programming with python and javascript</p>
-<h2> These are the Specifications of the project: </h2>
+<h2>Specifications of the project: </h2>
 <p>
 
 Using only HTML & CSS, design a front-end for Google Search, Google Image Search, and Google Advanced Search.
