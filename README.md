@@ -41,7 +41,10 @@ Using only HTML & CSS, design a front-end for Google Search, Google Image Search
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WN5BUtA0zIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h3>
+  <strong>[Project's video presentation](https://youtu.be/WN5BUtA0zIY)</strong>
+</h3>
 
 ## Features
 
