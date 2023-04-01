@@ -52,7 +52,7 @@ This project only features the tools and practices that were requested.
 
 
 
-1. Clone this repo using <code> git clone git@github.com:Wjunior-l/Lecture-1-CS50.git</code>
+1. Clone this repo using <code> git clone git@github.com:Wjunior-l/Lecture-0-CS50.git</code>
 2. Move yourself to the folder.
 
 
