@@ -3,7 +3,7 @@
   <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-google-social-media-justicon-lineal-color-justicon.png" alt="WIKI" width="120">
 <br>
 <br>
-WIKI
+Google Search
 </h1>
 
 <p align="center">This is the Lecture 0 of CS50 web programming with python and javascript</p>
