@@ -42,7 +42,7 @@ Using only HTML & CSS, design a front-end for Google Search, Google Image Search
   </a>
 </p>
 
-
+[Project's video presentation](https://youtu.be/WN5BUtA0zIY)
 
 ## Features
 
@@ -54,7 +54,7 @@ This project only features the tools and practices that were requested.
 
 ## Getting started
 
-[Project's video presentation](https://youtu.be/WN5BUtA0zIY)
+
 
 1. Clone this repo using git@github.com:Wjunior-l/mycs50projects.git
 2. Move yourself to the folder.
