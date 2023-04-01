@@ -36,8 +36,8 @@ results for that page.
   •When the “Advanced Search” button is clicked, the user should be taken to the search results page for their given query.
 •Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link should 
 take users directly to the first   Google search result for the query, bypassing the normal results page.
-  •You may encounter a redirect notice when using the “I’m Feeling Lucky” button. Not to worry! This is an expected consequence of a 
-  security feature implemented by      Google.
+  •You may encounter a redirect notice when using the “I’m Feeling Lucky” button. Not to worry! This is an expected consequence 
+  of a security feature implemented by      Google.
 •The CSS you write should resemble Google’s own aesthetics.
 </pre>
 
