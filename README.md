@@ -42,7 +42,7 @@ Using only HTML & CSS, design a front-end for Google Search, Google Image Search
   </a>
 </p>
 
-[Project's video presentation](https://youtu.be/WN5BUtA0zIY)
+## [Project's video presentation](https://youtu.be/WN5BUtA0zIY)
 
 ## Features
 
